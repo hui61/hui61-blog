@@ -37,10 +37,10 @@ params:
   comments:
     giscus:
       enable: true
-      repo: hui61/hui61.github.io
-      repo_id: R_kgDOKY6V_A
+      repo: hui61/hui61-blog
+      repo_id: R_kgDOLOtrXQ
       category: Announcements
-      category_id: DIC_kwDOKY6V_M4CZ5AI
+      category_id: DIC_kwDOLOtrXc4Cc_Op
       mapping: pathname
       position: top
       lang: zh-CN # pick a language from https://github.com/giscus/giscus/tree/main/locales
