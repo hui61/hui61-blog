@@ -2,6 +2,8 @@
 
 source ./aws-credentials.sh
 
+rm -rf public
+
 hugo
 
 aws s3 rm s3://hui61.com --recursive
